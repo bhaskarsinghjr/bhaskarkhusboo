@@ -3751,7 +3751,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 2em 3em 5em 3em ;
+				padding: -1em 3em 5em 3em ;
 				height: auto;
 				min-height: 0;
 			}
